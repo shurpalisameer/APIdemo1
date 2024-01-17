@@ -1,0 +1,22 @@
+Scalex
+----------
+1. what is difference between non-funcional and functional testing?
+2. what is difference betwen regression and retesting?
+3. what is API testing and why we do?
+4. what is defect life cycle?
+5. what is STLC?
+6. Advantage of Agile.
+7. If you have less time to execute the test cases, what is your approach?
+8. If you get defect one day before of product delivery, what you will do?
+9. what is V and V model?
+10. what is usability testing?
+11. What is RTM(requirement tracebility matrix)
+
+Openstream.ai
+--------------
+1. What is difference between aftertest and aftersuite?
+2. what is the purpose of Annotations in testNG?
+3. what is QA structure?
+4. How do you access the variables of API in POSTMAN?
+5. how to asserts in API?
+6. What is Feature file?

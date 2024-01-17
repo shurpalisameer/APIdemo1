@@ -1,0 +1,18 @@
+Git commands
+---------------
+These are the commands which we execute in our Local (command prompt)
+
+1. C:>git config --global user.name "sameer" (To tell from which user we are trying to access the github)
+
+2. C:>git config --global user.email "sameershurpali07@gmail.com (config is the keyword which we configures username an email)
+
+3. C:>git init (Need to go specified folder location, and initalize the files before commiting or pushing the code into the github)
+
+4. C:>git add * (which addes the all the files, later stores in the Staging phase or Stash phase)
+
+5. C:>git commit -m "first commiting the entire code" (This takes the codes or files from Staging or Stash phase, before commiting)
+
+         1. After commiting, Now we have to push the code or files to the Remote Server (which is gitHub repositary)
+         2. Before pushing, we to make connection between our local system and remote server (where we need to push the codes)
+
+6. C:>git remote add origin "https://github.com/shurpalisameer/APIdemo1.git" 

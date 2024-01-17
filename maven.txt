@@ -1,0 +1,4 @@
+mvn archetype:generate -DgroupId=qaclickacademy -DartifactId=Mavenjava -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+
